@@ -1,0 +1,29 @@
+{
+  "name": "todolist-react-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djm204/todolist-react-ts.git"
+  },
+  "keywords": [
+    "reactjs",
+    "todolist",
+    "typescript"
+  ],
+  "author": "David Mendez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djm204/todolist-react-ts/issues"
+  },
+  "homepage": "https://github.com/djm204/todolist-react-ts#readme",
+  "dependencies": {
+    "director": "^1.2.8",
+    "react": "^15.0.2",
+    "todomvc-app-css": "^2.0.6"
+  }
+}
